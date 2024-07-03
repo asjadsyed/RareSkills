@@ -1,0 +1,3 @@
+[submodule "BondingCurves/SC1-TokenWithSanctions/lib/forge-std"]
+	path = BondingCurves/SC1-TokenWithSanctions/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
