@@ -7,3 +7,6 @@
 [submodule "BondingCurves/SC3-TokenSaleAndBuybackWithBondingCurve/lib/forge-std"]
 	path = BondingCurves/SC3-TokenSaleAndBuybackWithBondingCurve/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BondingCurves/SC4-UntrustedEscrow/lib/forge-std"]
+	path = BondingCurves/SC4-UntrustedEscrow/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
