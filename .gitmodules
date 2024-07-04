@@ -1,15 +1,28 @@
-[submodule "lib/openzeppelin-contracts"]
-	path = BondingCurves/SC1-TokenWithSanctions/lib/openzeppelin-contracts
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
 [submodule "BondingCurves/SC1-TokenWithSanctions/lib/forge-std"]
 	path = BondingCurves/SC1-TokenWithSanctions/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BondingCurves/SC1-TokenWithSanctions/lib/openzeppelin-contracts"]
+	path = BondingCurves/SC1-TokenWithSanctions/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+
 [submodule "BondingCurves/SC2-TokenWithGodMode/lib/forge-std"]
 	path = BondingCurves/SC2-TokenWithGodMode/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BondingCurves/SC2-TokenWithGodMode/lib/openzeppelin-contracts"]
+	path = BondingCurves/SC2-TokenWithGodMode/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+
 [submodule "BondingCurves/SC3-TokenSaleAndBuybackWithBondingCurve/lib/forge-std"]
 	path = BondingCurves/SC3-TokenSaleAndBuybackWithBondingCurve/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BondingCurves/SC3-TokenSaleAndBuybackWithBondingCurve/lib/openzeppelin-contracts"]
+	path = BondingCurves/SC3-TokenSaleAndBuybackWithBondingCurve/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+
 [submodule "BondingCurves/SC4-UntrustedEscrow/lib/forge-std"]
 	path = BondingCurves/SC4-UntrustedEscrow/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BondingCurves/SC4-UntrustedEscrow/lib/openzeppelin-contracts"]
+	path = BondingCurves/SC4-UntrustedEscrow/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+
